@@ -1,0 +1,17 @@
+# Site settings
+title: 2015 은평통계연보 인포그래픽
+description: 2015 은평통계연보 중 인포그래픽
+baseurl: '' # the subpath of your site, e.g. /blog/
+permalink: pretty
+timezone: Asia/Seoul
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+  sourcemap: true
+
+exclude: [ Gemfile, Gemfile.lock, README.md, .gitignore, .ruby-version]
