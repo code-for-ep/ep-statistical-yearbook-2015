@@ -1,0 +1,10 @@
+$body-bg: #2ea9be;
+$body-color: #fff;
+
+@import "bootstrap/variables";
+
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+* {
+  font-family: 'Noto Sans KR', sans-serif;
+}

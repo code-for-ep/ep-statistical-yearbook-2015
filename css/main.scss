@@ -1,0 +1,17 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+
+body {
+  word-break: keep-all;
+}
+
+.header {
+  margin: 3em auto;
+}
+
+.owl-carousel.owl-theme {
+  margin-top: 3em;
+}
